@@ -13,7 +13,7 @@ public class HandPhone {
     }
     public static void main(String[] args){
         HandPhone hp = new HandPhone();
-        hp.setDataHP("Huawei", 2022);
+        hp.setDataHP("Oppo", 2020);
         System.out.println(hp.getJenisHP());
         System.out.println(hp.getTahunPembuatan());
     }
